@@ -13,6 +13,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+
+
+
 # Mono auto generated files
 mono_crash.*
 
@@ -46,9 +49,7 @@ Generated\ Files/
 [Bb]uild[Ll]og.*
 
 # NUnit
-*.VisualState.xml
-TestResult.xml
-nunit-*.xml
+
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
